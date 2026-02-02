@@ -4,7 +4,5 @@ public class for_loop_reverse_nums {
 		for(int i=5;i>=1;i--) {
 			System.out.println(i);
 		}
-
 	}
-
 }
